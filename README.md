@@ -1,10 +1,6 @@
 # EthQuickTransac
 This repo is for a cross-border Ethereum-compatible blockchain that connects financial institutions, this was built to automate the financial processes and features of smart contracts, such as hosting joint savings accounts.
 
-
-# QuickTransacEther
-This repo is for a cross-border Ethereum-compatible blockchain that connects financial institutions, this was built to automate the financial processes and features of smart contracts, such as hosting joint savings accounts.
-
 # Joint Savings Smart Contract
 
 The Joint Savings Smart Contract allows two users to control a joint savings account. It is implemented using Solidity and can be tested and deployed using Remix IDE with the JavaScript VM.
